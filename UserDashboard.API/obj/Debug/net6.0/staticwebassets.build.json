@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "iPBXqFjoWuC4ftiPWxORauf3J3iTBJsNGX7VhkeHyOc=",
+  "Source": "UserDashboard.API",
+  "BasePath": "_content/UserDashboard.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
